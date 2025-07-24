@@ -1,0 +1,5 @@
+print("my name is mishva dholariya")
+print("i am bca student")
+print("i am study in c.z.m.g bca collage")
+print("my class room is 11")
+print("my division A")
